@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: d83a14383f814e74381b4c2cd8a7398a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ViewDataDictionary: {instanceID: 0}
+  - buttonSprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
